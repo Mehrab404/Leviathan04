@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leviathan04
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Python. And soon I will start C and java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to learn the ropes of Web Development 
 - 📫 How to reach me at this E-mail---> mehrab.islam24@gmail.com
 
 <!---
