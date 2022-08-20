@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehrab
--  Highly interested in Web Devlopment
+-  I'm Highly interested in Web Devlopment
 -  Currently learning Python. And soon I will start C and java
 -  I’m looking to learn the ropes of Web Development 
 -  Reach me at this E-mail---> mehrab.islam24@gmail.com
