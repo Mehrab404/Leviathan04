@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leviathan
+- 👋 Hi, I’m Mehrab
 -  Highly interested in Web Devlopment
 -  Currently learning Python. And soon I will start C and java
 -  I’m looking to learn the ropes of Web Development 
